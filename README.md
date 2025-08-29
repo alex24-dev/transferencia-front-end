@@ -3,9 +3,7 @@
 
 ## Índice do projeto 
 
-- <a href="#repositorio">Repositorio gitHub</a>
-- <a href="#tecnologias">Tecnologias usadas</a>
-- <a href="#funcionalidades">Funcionalidades do Projeto</a>
+
 
 ##  💻 Repositorio gitHub
 
